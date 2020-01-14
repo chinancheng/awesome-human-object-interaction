@@ -2,10 +2,10 @@
 A paper list of Human Object Interaction (HOI), inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) and [awesome-action-recognition](https://github.com/jinwchoi/awesome-action-recognition/blob/master/README.md).  
 
 ## Contents
- - [Paper](#paper)
- - [Dataset](#dataset)
+ - [Papers](#papers)
+ - [Datasets](#datasets)
 
-## Paper
+## Papers
 *  ***[AAAI 2020]*** **Detecting Human-Object Interactions via Functional Generalization** [[Paper]](https://arxiv.org/pdf/1904.03181.pdf)
     * A. Bansal, S. Rambhatla, A. Shrivastava, R. Chellappa
 * ***[ICCV 2019]*** **Reasoning About Human-Object Interactions Through Dual Attention Networks** [[Paper]](https://arxiv.org/pdf/1909.04743.pdf)
@@ -49,7 +49,7 @@ A paper list of Human Object Interaction (HOI), inspired by [awesome-computer-vi
 * ***[CVPR 2010]*** **Modeling Mutual Context of Object and Human Pose in Human-Object Interaction Activities** [[Paper]](http://vision.stanford.edu/pdf/YaoFei-Fei_CVPR2010b.pdf)
   * B. Yao, F. F. Li
 
-## Dataset
+## Datasets
 * [HICO: A Benchmark for Recognizing Human-Object Interactions in Images](http://www-personal.umich.edu/~ywchao/hico/)
 * [V-COCO: Visual Semantic Role Labeling](https://github.com/s-gupta/v-coco)
 * [TUHOI: Trento Universal Human Object Interaction Dataset](https://www.aclweb.org/anthology/W14-5403/)
