@@ -6,6 +6,10 @@ A paper list of Human Object Interaction (HOI), inspired by [awesome-computer-vi
  - [Datasets](#datasets)
 
 ## Papers
+* ***[Arxiv 2020]*** **Visual-Semantic Graph Attention Network for Human-Object Interaction Detection** [[Paper]](https://arxiv.org/pdf/2001.02302v1.pdf)
+   * Z. Liang, Y. Guan, J. Rojas 
+* ***[Arxiv 2019]*** **PPDM: Parallel Point Detection and Matching for Real-time Human-Object Interaction Detection** [[Paper]](https://arxiv.org/pdf/1912.12898v1.pdf)
+   * Y. Liao, S. Liu, F. Wang, Y. Chen, J. Feng 
 *  ***[AAAI 2020]*** **Detecting Human-Object Interactions via Functional Generalization** [[Paper]](https://arxiv.org/pdf/1904.03181.pdf)
     * A. Bansal, S. Rambhatla, A. Shrivastava, R. Chellappa
 * ***[ICCV 2019]*** **Reasoning About Human-Object Interactions Through Dual Attention Networks** [[Paper]](https://arxiv.org/pdf/1909.04743.pdf)
