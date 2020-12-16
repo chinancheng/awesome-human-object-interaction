@@ -6,6 +6,8 @@ A paper list of Human Object Interaction (HOI), inspired by [awesome-computer-vi
  - [Datasets](#datasets)
 
 ## Papers
+* ***[Arxiv 2020]*** **Cascaded human-object interaction recognition.** [[Paper]](https://arxiv.org/pdf/2003.04262.pdf)
+   * Tianfei Zhou, Wenguan Wang, Siyuan Qi, Haibin Ling, and Jianbing Shen
 * ***[Arxiv 2020]*** **Visual-Semantic Graph Attention Network for Human-Object Interaction Detection** [[Paper]](https://arxiv.org/pdf/2001.02302v1.pdf)
    * Z. Liang, Y. Guan, J. Rojas 
 * ***[Arxiv 2019]*** **PPDM: Parallel Point Detection and Matching for Real-time Human-Object Interaction Detection** [[Paper]](https://arxiv.org/pdf/1912.12898v1.pdf)
